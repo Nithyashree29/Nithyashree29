@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Advanced topics of ML and Dl**
 
-- 📚Skills  = Python, R ,power BI,Tableau,Excel,Basics of perl,docker,ELK
+- 📚Skills [Python, R ,power BI,Tableau,Excel,Basics of perl,docker,ELK](Python, R ,power BI,Tableau,Excel,Basics of perl,docker,ELK)
 
-- 📞How to contact me [8618893196](8618893196)
+- 💬 Ask me about **Thinks related to data science**
 
 - 📫 How to reach me **Snithya2919988@gmail.com**
 
