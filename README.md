@@ -7,8 +7,6 @@
 
 - 📞How to contact me [8618893196](8618893196)
 
-- 💬 Ask me about **Thinks related to data science**
-
 - 📫 How to reach me **Snithya2919988@gmail.com**
 
 - 📄 Know about my experiences [Worked as an intern in datascience field [8 months],in R ,shiny framework and Machinelearning](Worked as an intern in datascience field [8 months],in R ,shiny framework and Machinelearning)
