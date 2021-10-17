@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **Snithya2919988@gmail.com**
 
-- 📄 Know about my experiences [Worked as an intern in datascience field [8 months],in R ,shiny framework and Machinelearning](Worked as an intern in datascience field [8 months],in R ,shiny framework and Machinelearning)
+- 📄 Know about my experiences [Worked as an intern in datascience field [8 months],in R ,shiny framework and Machinelearning]
+ 
+- 🏢 presently working as a Assosciate Software Engineer 
 
 - ⚡ Fun fact **always funny when dealing with data**
 
